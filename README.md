@@ -1,4 +1,4 @@
-# EcoFootprint Tracker
+# EcoFootprint Tracker🍃
 
 Welcome to **EcoFootprint Tracker** – a fun and interactive app that lets you calculate your personal carbon footprint and visualize your impact on the environment!
 
