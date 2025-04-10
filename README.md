@@ -1,12 +1,35 @@
-# React + Vite
+# EcoFootprint Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **EcoFootprint Tracker** – a fun and interactive app that lets you calculate your personal carbon footprint and visualize your impact on the environment!
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo here: [EcoFootprint Tracker Demo](https://kaurm57.github.io/EcoFootprint-Tracker/)
 
-## Expanding the ESLint configuration
+## What’s It All About?
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+EcoFootprint Tracker helps you understand your environmental footprint by guiding you through a series of questions about your lifestyle—covering topics like food, transport, and household habits. Once you’ve answered the questions, the app calculates your carbon footprint and displays your results with cool, interactive charts.
+
+## Tech Stack
+
+- **React**: For building the dynamic user interface.
+- **React Router**: For smooth navigation between the landing, form, and results pages.
+- **Framer Motion**: Adds smooth animations (like the floating clouds on the landing page) to enhance the user experience.
+- **D3.js**: For creating dynamic data visualizations (such as pie and bar charts).
+- **Tailwind CSS**: For styling your app with utility-first CSS classes.
+- **JavaScript (ES6+)**: The language that powers the logic and interactivity of the app.
+
+## How It Works
+
+1. **Landing Page**  
+   - **Fun & Inviting:** Enjoy a playful background with animated clouds.
+   - **Get Started:** Click the "Take the Quiz" button to dive right into discovering your environmental impact.
+
+2. **Form Page**  
+   - **Interactive Quiz:** Answer friendly questions across various lifestyle categories.
+   - **Dynamic Data Collection:** Your answers are stored and used to calculate how much CO₂ you’re responsible for each year.
+
+3. **Results Page**  
+   - **Instant Insights:** Your carbon footprint is calculated using your answers.
+   - **Data Visualization:** See colorful pie and bar charts (built with D3.js) that compare your results with average benchmarks.
+   - **Tips & Recommendations:** Get simple suggestions on how to reduce your footprint and help make the world a greener place!
