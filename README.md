@@ -4,7 +4,7 @@ Welcome to **EcoFootprint Tracker** – a fun and interactive app that lets you 
 
 ## Demo
 
-Check out the live demo here: [EcoFootprint Tracker Demo](https://kaurm57.github.io/EcoFootprint-Tracker/)
+Check out the live demo here: [EcoFootprint Tracker Demo](https://ecofootprint-tracker.netlify.app/)
 
 ## What’s It All About?
 
